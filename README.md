@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Курбанжан Турдиев</h1>
+<h3 align="center">Привет! Я Курбанжан Турдиев</h3>
 
 <p align="center">
   Junior Front-End Developer из Кара-Балты, Кыргызстан.<br>
@@ -24,25 +24,13 @@
 
 ### 🚀 Проекты:
 
-- [YouTube Clone](https://github.com/твой-ник/ссылка-на-репозиторий) — React + TypeScript + TanStack Query  
-- [Anime Project](https://github.com/твой-ник/ссылка-на-репозиторий) — с использованием RTK  
-- [Проект IT Academy](https://github.com/твой-ник/ссылка-на-репозиторий) — участие в мастер-классах
-
----
-
-### 📊 Статистика:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=radical" height="150"/>
-</p>
-
+- [YouTube Clone](https://github.com/KurbanTR/YouTubeClone) — React + TypeScript + TanStack Query 
 ---
 
 ### 📫 Контакты:
 
-- Telegram: [@твой_ник](https://t.me/твой_ник)  
-- Email: example@gmail.com  
+- Telegram: [@KurbanTR](https://t.me/KurbanTR)  
+- Email: kurbantr07@gmail.com  
 
 ---
 
