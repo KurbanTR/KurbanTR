@@ -24,12 +24,13 @@
 
 ### 🚀 Проекты:
 
-- [YouTube Clone](https://github.com/KurbanTR/YouTubeClone) — React + TypeScript + TanStack Query 
+- [YouTube Clone](https://github.com/KurbanTR/YouTube-Clone) — React + TypeScript + TanStack Query 
 ---
 
 ### 📫 Контакты:
 
-- Telegram: [@KurbanTR](https://t.me/KurbanTR)  
+- Telegram: [@KurbanTR](https://t.me/KurbanTR)
+- LinkedIn: [Kurbanjan Turdiev](https://www.linkedin.com/in/kurbanjan-turdiev-0110b8357)
 - Email: kurbantr07@gmail.com  
 
 ---
