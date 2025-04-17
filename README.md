@@ -24,7 +24,8 @@
 
 ### 🚀 Проекты:
 
-- [YouTube Clone](https://github.com/KurbanTR/YouTube-Clone) — React + TypeScript + TanStack Query 
+- [YouTube Clone](https://github.com/KurbanTR/YouTube-Clone) — React + TypeScript + TanStack Query
+- [TRChat](https://github.com/KurbanTR/TRChatFront) — React + TypeScript + RTK Query + BackEnd
 ---
 
 ### 📫 Контакты:
