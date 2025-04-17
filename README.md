@@ -9,7 +9,7 @@
 
 ### 🛠️ Мой стек
 
-[![Мой стек](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,tailwind,vite,nodejs,php,wordpress,git,github,gitlab,postman,figma,vscode,vercel,netlify,debian,powershell,discord,firebase)](https://skillicons.dev)
+[![Мой стек](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,firebase,git,github,postman,figma,vercel,render&theme=dark)](https://skillicons.dev)
 
 ---
 
